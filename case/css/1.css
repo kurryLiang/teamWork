@@ -1,0 +1,131 @@
+@charset"utf-8";
+body,figure,figcaption,img{margin:0;padding: 0;}
+
+figure{position:relative; }
+.text1 figcaption {
+            position: absolute;
+            top: 270px;
+            left: 580px;
+            font-family:"微软雅黑";
+            color:#FFF;
+            overflow: hidden;
+}
+figure img{opacity: 0.8}
+figure figcaption p{transition:all 0.35s;}
+.text1 figcaption p{font-size:1.5em;
+                    color:#f4edd6;
+                    margin:30px;
+                    text-align: center;
+                    transform:translate(-600px,0px)  
+                }
+.text1 figcaption p:nth-of-type(1){transition-delay: 0.05s}
+.text1 figcaption p:nth-of-type(2){transition-delay: 0.1s}
+.text1 figcaption p:nth-of-type(3){transition-delay: 0.15s}
+.text1 figcaption{padding: 20px;} 
+.text1:hover figcaption p{transform:translate(0px,0px);}
+
+
+
+.text2 figcaption { 
+            position: absolute;
+            top: -300px;
+            left: 1100px;
+            font-family:"微软雅黑";
+            color:#FFF;
+            overflow: hidden;
+}
+
+
+
+
+.text2 figcaption p{font-size:1.5em;
+                    color: #f4edd6;
+                    margin:30px;
+                    text-align: center;
+                    transform:translate(-510px,0px)  
+}
+.text2 figcaption p:nth-of-type(1){transition-delay: 0.05s}
+.text2 figcaption p:nth-of-type(2){transition-delay: 0.1s}
+.text2 figcaption p:nth-of-type(3){transition-delay: 0.15s}
+.text2 figcaption p:nth-of-type(4){transition-delay: 0.2s}
+.text2 figcaption{padding: 10px;} 
+.text2:hover figcaption p{transform:translate(0px,0px);}
+
+
+
+
+.text3 figcaption { 
+            position: absolute;
+            top: -1350px;
+            left: 330px;
+            font-family:"微软雅黑";
+            color:#FFF;
+            overflow: hidden;
+}
+
+
+
+
+.text3 figcaption p{font-size:1.5em;
+                    color: #f4edd6;
+                    margin:30px;
+                    text-align: center;
+                    transform:translate(-506px,0px)  
+                }
+.text3 figcaption p:nth-of-type(1){transition-delay: 0.05s}
+.text3 figcaption p:nth-of-type(2){transition-delay: 0.1s}
+.text3 figcaption p:nth-of-type(3){transition-delay: 0.15s}
+.text3 figcaption p:nth-of-type(4){transition-delay: 0.2s}
+.text3 figcaption{padding: 10px;} 
+.text3:hover figcaption p{transform:translate(0px,0px);}
+
+
+
+
+.text4 figcaption { 
+            position: absolute;
+            top: -1950px;
+            left: 860px;
+            font-family:"微软雅黑";
+            color:#FFF;
+            overflow: hidden;
+}
+
+
+.text4 figcaption p{font-size:1.5em;
+                    color: #f4edd6;
+                    margin:30px;
+                    text-align: center;
+                    transform:translate(-500px,0px)  
+                }
+.text4 figcaption p:nth-of-type(1){transition-delay: 0.05s}
+.text4 figcaption p:nth-of-type(2){transition-delay: 0.1s}
+.text4 figcaption p:nth-of-type(3){transition-delay: 0.15s}
+.text4 figcaption p:nth-of-type(4){transition-delay: 0.2s}
+.text4 figcaption{padding: 20px;} 
+.text4:hover figcaption p{transform:translate(0px,0px);} 
+
+
+.text5 figcaption { 
+            position: absolute;
+            top: -2550px;
+            left: 1370px;
+            font-family:"微软雅黑";
+            color:#FFF;
+            overflow: hidden;
+}
+
+.text5 figcaption p{font-size:1.5em;
+                    color: #f4edd6;
+                    margin:30px;
+                    text-align: center;
+                    transform:translate(-565px,0px)  
+                }
+.text5 figcaption p:nth-of-type(1){transition-delay: 0.05s}
+.text5 figcaption p:nth-of-type(2){transition-delay: 0.1s}
+.text5 figcaption p:nth-of-type(3){transition-delay: 0.15s}
+.text5 figcaption p:nth-of-type(4){transition-delay: 0.2s}
+.text5 figcaption{padding: 20px;} 
+.text5:hover figcaption p{transform:translate(-37px,0px);}              
+
+
